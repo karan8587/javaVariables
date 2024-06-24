@@ -1,6 +1,6 @@
 # javaVariables
 
-English meaning of Varibales:
+English meaning of Varibales:  
 Something that is likely to vary.
 e.g. the weather is one variable to be considered. 
 e.g.2  variable expenses
